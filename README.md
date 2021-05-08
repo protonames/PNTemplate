@@ -1,2 +1,2 @@
 # PNTemplate
-Template that use to start my prototypes in Unity
+Template that I use to start my prototypes in Unity

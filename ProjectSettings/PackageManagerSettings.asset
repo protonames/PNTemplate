@@ -31,6 +31,7 @@ MonoBehaviour:
     m_Scopes:
     - com.github.superunitybuild
     - com.demigiant.dotween
+    - com.protonames.pnlib
     m_IsDefault: 0
     m_Capabilities: 0
   m_UserSelectedRegistryName: OpenUPM
@@ -44,6 +45,7 @@ MonoBehaviour:
       m_Scopes:
       - com.github.superunitybuild
       - com.demigiant.dotween
+      - com.protonames.pnlib
       m_IsDefault: 0
       m_Capabilities: 0
     m_Modified: 0
@@ -52,5 +54,6 @@ MonoBehaviour:
     m_Scopes:
     - com.github.superunitybuild
     - com.demigiant.dotween
+    - com.protonames.pnlib
     m_SelectedScopeIndex: 0
   m_LoadAssets: 0

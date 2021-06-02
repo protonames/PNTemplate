@@ -1,33 +1,28 @@
 {
   "dependencies": {
-    "com.demigiant.dotween": {
-      "version": "1.2.42",
-      "depth": 0,
-      "source": "registry",
-      "dependencies": {},
-      "url": "https://package.openupm.com"
-    },
     "com.github.superunitybuild.buildactions": {
-      "version": "1.2.0",
+      "version": "2.0.0",
       "depth": 0,
       "source": "registry",
       "dependencies": {
-        "com.github.superunitybuild.buildtool": "1.1.0"
+        "com.github.superunitybuild.buildtool": "2.0.0"
       },
       "url": "https://package.openupm.com"
     },
     "com.github.superunitybuild.buildtool": {
-      "version": "1.1.0",
-      "depth": 0,
+      "version": "2.0.0",
+      "depth": 1,
       "source": "registry",
       "dependencies": {},
       "url": "https://package.openupm.com"
     },
     "com.protonames.pnlib": {
-      "version": "1.0.0",
+      "version": "1.0.5",
       "depth": 0,
       "source": "registry",
-      "dependencies": {},
+      "dependencies": {
+        "com.unity.textmeshpro": "3.0.6"
+      },
       "url": "https://package.openupm.com"
     },
     "com.unity.2d.sprite": {
@@ -44,7 +39,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.ide.rider": {
-      "version": "3.0.6",
+      "version": "3.0.7",
       "depth": 0,
       "source": "registry",
       "dependencies": {
